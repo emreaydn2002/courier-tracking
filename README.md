@@ -1,8 +1,8 @@
-# Courier Tracking Case
+# Courier Tracking
 
 A simple RESTful web application written in Java & Spring Boot that tracks courier
 locations, calculates the total travel distance of each courier, and logs when
-couriers enter the 100 m radius of Migros stores.
+couriers enter the 100 m radius of stores.
 
 Store locations are provided in a JSON file: `src/main/resources/stores.json`.
 
